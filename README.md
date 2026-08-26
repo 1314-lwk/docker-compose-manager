@@ -1,5 +1,7 @@
 # 🐳 Docker Compose 项目管理面板 (Windows)
 
+！！！！docker-manager.bat与 超级升级版.bat一样，只是名字不一样
+
 > 一个轻量级的交互式菜单工具，帮你快速管理多个 Docker Compose 项目。  
 > 无需安装 Python / Node，下载即用，适合 Windows + Docker Desktop 用户。
 
@@ -62,7 +64,7 @@
 
 ## 📁 文件说明
 
-- `超级升级版.bat` – 主脚本
+- `超级升级版.bat` “docker-manager.bat” – 主脚本
 - `config.ini` – 自动生成，保存你上次输入的搜索路径（**请勿上传到 GitHub**）
 
 ---
