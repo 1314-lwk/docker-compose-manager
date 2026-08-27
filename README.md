@@ -1,6 +1,6 @@
 # 🐳 Docker Compose 项目管理面板 (Windows)
 
-！！！！docker-manager.bat（1.0）与 超级升级版.bat（1.0）一样，只是名字不一样
+！！！！docker-manager(1.0).bat与 docker管理（1.0）.bat一样，只是名字不一样
 
 > 一个轻量级的交互式菜单工具，帮你快速管理多个 Docker Compose 项目。  
 > 无需安装 Python / Node，下载即用，适合 Windows + Docker Desktop 用户。
@@ -28,7 +28,7 @@
 
 ## 🚀 快速开始
 
-1. **下载** `超级升级版.bat` 到任意文件夹
+1. **下载** `docker管理（1.0）.bat` 到任意文件夹
 2. **右键** 点击该文件 → **以管理员身份运行**
 3. **首次运行**：脚本会自动检测可用盘符，你只需输入编号选择盘符，或选 `0` 手动输入完整路径（如 `D:\Projects\`）
 4. 之后每次打开都会自动加载上次的路径，直接显示项目列表
@@ -64,7 +64,7 @@
 
 ## 📁 文件说明
 
-- `超级升级版.bat` “docker-manager.bat” – 主脚本
+- `docker管理（1.0）.bat` “docker-manager(1.0).bat” – 主脚本
 - `config.ini` – 自动生成，保存你上次输入的搜索路径（**请勿上传到 GitHub**）
 
 ---
